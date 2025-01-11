@@ -1,3 +1,4 @@
+
 //create variable and set value equal to number
 const myAge = 29;
 //create variable let and set value equal to number
