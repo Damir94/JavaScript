@@ -1,4 +1,3 @@
-
 /*
 try {
     adddlert("Welcome guest!");
